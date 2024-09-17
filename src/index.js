@@ -18,4 +18,3 @@ app.get("/api/test-2", (req, res) => {
 });
 
 module.exports = app;
-//comentando pra alterar
